@@ -1,4 +1,4 @@
-# Leukemia-Detection
+# Leukemia Detection using an improved method with k-means
 ## PROCESS OVERVIEW
 
 ### Image Acquisition
